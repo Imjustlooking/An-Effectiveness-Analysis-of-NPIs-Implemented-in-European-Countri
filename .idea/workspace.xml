@@ -1,114 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e61dd9f-06fe-444f-9406-719b130ea534" name="Changes" comment="" />
+    <list default="true" id="05b83c6a-e2e3-4af4-b2a9-71890a32da7c" name="Changes" comment="Final Project Code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2mnLsTFURUaDm2qona5VJVOfqZQ" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2mzmq1kzgDiLgAU28LkldjMloeC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ACF_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.OLS_test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Plot.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Research.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SARIMA.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/DELL/Desktop/Python_DEMO/Portugal&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\DELL\Desktop\Python_DEMO\Portugal" />
-      <recent name="C:\Users\DELL\Desktop\Python_DEMO\Germany" />
-      <recent name="C:\Users\DELL\Desktop\Python_DEMO\Italy" />
-      <recent name="C:\Users\DELL\Desktop\Python_DEMO\Austria" />
-      <recent name="C:\Users\DELL\Desktop\Python_DEMO" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\DELL\Desktop\Python_DEMO\Italy" />
-      <recent name="C:\Users\DELL\Desktop\Python_DEMO\Methods" />
-      <recent name="C:\Users\DELL\Desktop\Python_DEMO\Japan" />
-      <recent name="C:\Users\DELL\Desktop\Python_DEMO\Germany" />
-      <recent name="C:\Users\DELL\Desktop\Python_DEMO" />
-    </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
-        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
-      </set>
-    </attachedChunks>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1e61dd9f-06fe-444f-9406-719b130ea534" name="Changes" comment="" />
-      <created>1727707599864</created>
+      <changelist id="05b83c6a-e2e3-4af4-b2a9-71890a32da7c" name="Changes" comment="" />
+      <created>1728087966285</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1727707599864</updated>
-      <workItem from="1727707601432" duration="6648000" />
-      <workItem from="1727736754528" duration="1958000" />
-      <workItem from="1727742517821" duration="2676000" />
-      <workItem from="1727796283827" duration="6263000" />
-      <workItem from="1727819178889" duration="3050000" />
-      <workItem from="1727822271305" duration="8205000" />
-      <workItem from="1727859781913" duration="9250000" />
-      <workItem from="1727896813527" duration="10730000" />
-      <workItem from="1727951378840" duration="9772000" />
-      <workItem from="1728040196421" duration="8566000" />
+      <updated>1728087966285</updated>
     </task>
+    <task id="LOCAL-00001" summary="Final Project Code">
+      <option name="closed" value="true" />
+      <created>1728088525037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728088525037</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <default-breakpoints>
-        <breakpoint type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python_DEMO$Research.coverage" NAME="Research Coverage Results" MODIFIED="1727797359937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python_DEMO$Plot.coverage" NAME="Plot Coverage Results" MODIFIED="1728040304836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Methods" />
-    <SUITE FILE_PATH="coverage/Python_DEMO$SARIMA.coverage" NAME="SARIMA Coverage Results" MODIFIED="1728056125366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Methods" />
-    <SUITE FILE_PATH="coverage/Python_DEMO$OLS_test.coverage" NAME="OLS_test Coverage Results" MODIFIED="1727916799185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Methods" />
-    <SUITE FILE_PATH="coverage/Python_DEMO$ACF_test.coverage" NAME="ACF_test Coverage Results" MODIFIED="1727831007415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Methods" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Final Project Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Project Code" />
   </component>
 </project>
